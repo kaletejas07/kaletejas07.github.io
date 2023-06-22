@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: Tejas Kale
 email: kaletejas07@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Skilled tech enthusiast having experience in development, testing, maintenance, testing of the applications"
@@ -35,12 +35,12 @@ footer:
   copyright: Tejas Kale
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: LinkedIn
-    url: www.linkedin.com/in/tejas-kale-772449155
+    url: http://www.linkedin.com/in/tejas-kale-772449155
   - title: github
     url: http://github.com/jekyll
 
@@ -50,7 +50,7 @@ address:
   - line: CA
 
 # Credits content
-credits: 'Let me know for opportunties.'
+credits: 'Contact me - kaletejas07@gmail.com.'
 
 # Build settings
 markdown: kramdown
