@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-18
-img: Python.png
+img: Python.PNG
 alt: image-alt
 technologies: Python, Jupyter Notebook
 category: Safety Check In Online Bid System

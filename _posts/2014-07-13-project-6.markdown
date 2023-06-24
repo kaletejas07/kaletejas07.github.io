@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-18
-img: Networking.png
+img: Networking.PNG
 alt: image-alt
 technologies: JavaScript, AJAX, MySQL
 category: Social Networking Replica

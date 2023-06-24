@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: DataAnalysis.png
+img: DataAnalysis.PNG
 alt: image-alt
 technologies: Python, Selenium framework
 category: Website Data Gathering and Text Mining
