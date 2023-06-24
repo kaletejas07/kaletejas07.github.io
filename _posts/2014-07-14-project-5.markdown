@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2014-07-18
+img: RubyOnRails.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+technologies: Ruby on Rails
+category: User Management System
+description: Built a user management application using Ruby on Rails, incorporating CRUD (Create, Read, Update, Delete) operations. Leveraging the robust framework provided by Ruby on Rails, developed a seamless and user-friendly interface for managing users. The application allowed for creating new user records, retrieving existing user information, updating user details, and deleting user accounts as needed. By implementing the standard CRUD operations, the application provided efficient and comprehensive functionality for managing users within the system. Ruby on Rails' features and conventions facilitated rapid development and ensured a secure and scalable application for effective user management.
 ---

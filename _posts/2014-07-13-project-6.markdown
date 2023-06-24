@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2014-07-18
+img: Networking.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+technologies: JavaScript, AJAX, MySQL
+category: Social Networking Replica
+description: Utilized JavaScript, AJAX (Asynchronous JavaScript and XML), MySQL, and distributed application concepts to create a robust and interactive platform. Leveraging JavaScript, implemented dynamic and responsive user interfaces, enhancing the user experience and enabling seamless interactions. With AJAX, I incorporated asynchronous communication between the client and server, allowing data retrieval and updates without page reloads, resulting in faster and more efficient networking operations. By integrating MySQL, ensured reliable data storage and retrieval for the application. Additionally, leveraging distributed application concepts, designed the application to be scalable, enabling it to handle a large number of users and accommodate potential network failures. The combination of JavaScript, AJAX, MySQL, and distributed application concepts allowed for the creation of a robust networking application that provided a smooth user experience and facilitated seamless networking interactions.
 ---

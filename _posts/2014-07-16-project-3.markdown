@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2014-07-18
+img: Java.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+technologies: Java
+category: Food Ordering System
+description: Utilized UML diagrams to carefully plan the system's architecture, ensuring a well-structured design. Object-oriented programming principles were applied to implement the system, encapsulating data and behavior within classes for improved code reuse and maintainability. A data pipeline was established to enable seamless communication between different components of the ordering system, facilitating accurate and timely data processing. Drawing on concepts from distributed systems, the application was designed to be scalable, and resilient, capable of handling volume of orders. Additionally, various design patterns were incorporated, including the Singleton pattern for logging, Factory pattern for order creation, the Builder pattern for order customization. These efforts resulted in the successful development of an ordering system that streamlined order management and provided a strong foundation for future enhancements.
 ---

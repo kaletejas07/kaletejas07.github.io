@@ -2,9 +2,9 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: DataAnalysis.png
 alt: image-alt
-Technologies: Python, Selenium framework
+technologies: Python, Selenium framework
 category: Website Data Gathering and Text Mining
 description: Using Python for website data gathering and text mining, I was able to accomplish various tasks effectively. Leveraging libraries like BeautifulSoup and requests, I successfully scraped data from numerous websites, retrieving specific information and organizing it for analysis. With BeautifulSoup's HTML and XML parsing capabilities, I effortlessly navigated complex website structures, extracting relevant data elements with ease. Additionally, I utilized NLTK and spaCy to perform advanced text mining operations. By tokenizing text, performing part-of-speech tagging, sentiment analysis, and named entity recognition, I gained valuable insights from textual content. Python's rich ecosystem provided me with the necessary tools to extract meaningful information, uncover trends, and generate actionable insights from large volumes of data. Overall, Python played a crucial role in streamlining the process of data gathering and extracting valuable knowledge from text, enabling efficient decision-making and driving successful outcomes.
 ---

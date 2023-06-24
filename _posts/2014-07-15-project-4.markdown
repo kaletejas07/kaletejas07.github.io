@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2014-07-18
+img: Python.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+technologies: Python, Jupyter Notebook
+category: Safety Check In Online Bid System
+description: Using Python and regression techniques, developed a bid prediction flow that achieved an impressive 80% accuracy. Leveraging Python's data analysis libraries and machine learning algorithms, processed and prepared the data, considering various influencing factors for bidding. Through rigorous analysis, feature engineering, and model tuning, successfully trained the regression model to accurately predict bid whether it was a human or a bot. This achievement provides businesses with valuable insights for optimizing their bidding strategies, making informed decisions based on reliable bid predictions.
 ---
